@@ -1,0 +1,50 @@
+[
+    {
+        "question": "hello",
+        "answer": "Hello! Welcome to our chatbot. How can I help you?"
+    },
+    {
+        "question": "hi",
+        "answer": "Hi! Nice to meet you. How can I help you today?"
+    },
+    {
+        "question": "what is your name",
+        "answer": "I am an AI-powered retrieval chatbot."
+    },
+    {
+        "question": "what can you do",
+        "answer": "I can answer questions about our services, courses, support and general information."
+    },
+    {
+        "question": "what courses are available",
+        "answer": "We provide courses in Python, Java, Data Science, Artificial Intelligence and Machine Learning."
+    },
+    {
+        "question": "what is python",
+        "answer": "Python is a popular programming language used for web development, data science, automation and artificial intelligence."
+    },
+    {
+        "question": "what is artificial intelligence",
+        "answer": "Artificial Intelligence is a technology that enables computers to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "what is machine learning",
+        "answer": "Machine Learning is a branch of AI where computers learn patterns from data and use them to make predictions or decisions."
+    },
+    {
+        "question": "how can i contact support",
+        "answer": "You can contact support through our support email or contact form."
+    },
+    {
+        "question": "what are your working hours",
+        "answer": "Our support team is available from 9 AM to 6 PM, Monday to Friday."
+    },
+    {
+        "question": "thank you",
+        "answer": "You're welcome! Feel free to ask me anything else."
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye! Have a great day!"
+    }
+]

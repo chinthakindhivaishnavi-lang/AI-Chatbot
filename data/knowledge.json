@@ -1,0 +1,38 @@
+[
+    {
+        "question": "hello",
+        "answer": "Hello! Welcome to our AI chatbot. How can I help you?"
+    },
+    {
+        "question": "hi",
+        "answer": "Hi! How can I help you today?"
+    },
+    {
+        "question": "what is your name",
+        "answer": "I am an AI-powered retrieval-based chatbot."
+    },
+    {
+        "question": "what can you do",
+        "answer": "I can answer questions about Python, AI, Machine Learning, courses and support."
+    },
+    {
+        "question": "what is python",
+        "answer": "Python is a popular programming language used for web development, automation, data science and artificial intelligence."
+    },
+    {
+        "question": "what is artificial intelligence",
+        "answer": "Artificial Intelligence is technology that enables computers to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "what is machine learning",
+        "answer": "Machine Learning is a branch of AI where computers learn patterns from data and use them to make predictions or decisions."
+    },
+    {
+        "question": "thank you",
+        "answer": "You're welcome! Feel free to ask me another question."
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye! Have a great day!"
+    }
+]
